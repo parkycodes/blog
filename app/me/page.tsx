@@ -9,7 +9,7 @@ export default function Page() {
         and loves Pure Leaf Tea, aimed towards travelling to as many 
         places as I can after college and exploring what the world has to offer. 
         I want to make an impact that is beneficial towards global 
-        happieness. 
+        happiness. 
 
         `}
       </p>
