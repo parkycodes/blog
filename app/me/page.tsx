@@ -5,7 +5,7 @@ export default function Page() {
 
 
         <p className="mb-4">
-        {`I'm a student located in the DMV area who follows gods word
+        {`I'm a student located in the DMV area who follows Gods word
         and loves Pure Leaf Tea, aimed towards travelling to as many 
         places as I can after college and exploring what the world has to offer. 
         I want to make an impact that is beneficial for global 
